@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # student01의 웹 연습장
 
 웹프로그래밍 수업에서 한 주씩 늘려 가는 **자기소개 사이트**입니다.
@@ -41,3 +42,6 @@ darkButton.addEventListener('click', function () {
 - GitHub에 과제를 올리고 commit하는 법
 - 12~13주차에 발표할 과제하는 법 
 - README를 작성하는 방법
+=======
+# Day10
+>>>>>>> 762f1c39bdd80867ad33303dc405bb0ef635c18c
