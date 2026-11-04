@@ -5,7 +5,7 @@
 
 ## 공개 주소
 
-- [https://student01.github.io/web-week09/](https://student01.github.io/web-week09/)
+- [https://github.com/nana-0904/day10.git/](https://github.com/nana-0904/day10.git/)
 
 ## 페이지
 
