@@ -35,7 +35,7 @@ darkButton.addEventListener('click', function () {
 
 ![인사 바꾸기를 누른 홈 화면](screenshot/hello.PNG)
 
-![글을 남긴 방명록 화면](screenshots/guestbook.png)
+![글을 남긴 방명록 화면](screenshot/guestbook.PNG)
 
 ## 이번에 배운 것
 
